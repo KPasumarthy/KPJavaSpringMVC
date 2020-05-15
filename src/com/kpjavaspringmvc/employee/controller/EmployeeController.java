@@ -22,7 +22,7 @@ public class EmployeeController{
 	EmployeeAPIImpl empAPI = null;
 	//EmployeeAPI empAPI = null;
 	
-
+	////URL : http://localhost:8080/KPJavaSpringMVC/getAllEmployees
 	@RequestMapping(value = "getAllEmployees", method = RequestMethod.GET)
 	public String getAllEmployees(Model model)
 	{
