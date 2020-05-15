@@ -38,7 +38,7 @@
 				<div id="header" class="clearfix">
 					<img class="header" role="img"
 						aria-label="This is the main header logo"
-						src="./images/KPIcon32x32.ico" alt="logo">
+						src="../../images/KPIcon32x32.ico" alt="logo">
 				</div>
 			</div>
 
@@ -47,13 +47,16 @@
 			</div>
 		</div>
 	</div>
+	
+	
 	<div class="container-fluid">
-		<div class="row" style="text-align: center">
+		<div class="row">
 			<div class="col-md-12">
-				<div id="footer" class="clearfix">
-					<img class="footer" role="img"
+				<div id="header" class="clearfix">
+					<img class="header" role="img"
 						aria-label="This is the main header logo"
-						src="./images/KPIcon32x32.ico" alt="logo">
+						src="images/KPIcon32x32.ico" 
+						alt="logo">
 				</div>
 			</div>
 
@@ -62,6 +65,9 @@
 			</div>
 		</div>
 	</div>
+	
+	
+	
 	<h2>All Employees in System</h2>
 	<div class="container" id="homeScreen">
 		<div class="row">
