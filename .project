@@ -3,6 +3,7 @@
 	<name>KPJavaSpringMVC</name>
 	<comment></comment>
 	<projects>
+		<project>KPJavaSpringBoot</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
